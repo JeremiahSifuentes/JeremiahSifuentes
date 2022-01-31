@@ -1,6 +1,7 @@
+https://user-images.githubusercontent.com/51722716/151743837-0b4b9e6e-7c4c-4d27-b4c0-2f43cd3562be.mov
 - 👋 Hi, I’m @JeremiahSifuentes
-- 👀 I’m interested in web design, web development, and WebXR.
-- 🌱 I’m currently learning React, Babylon.js and Linux
+- 👀 I’m interested in web design, web development, WebXR, motorcycles, and filmaking.
+- 🌱 I’m currently learning React, Cisco and Linux
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me jeremiah.sifuentes03@gmail.com
 
